@@ -1,5 +1,6 @@
 # SAE-DevApp
-Groupe : 
+Groupe : 2B
+
 Hélène Lelardeux
 Martin Guibert 
 Mathis Amamou
